@@ -1,5 +1,5 @@
 {
-  "name": "webpack-stream",
+  "name": "webpack-stream-cache",
   "version": "3.2.0",
   "description": "Run webpack as a stream",
   "license": "MIT",
